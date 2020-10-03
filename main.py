@@ -5,7 +5,6 @@ from tkinter.font import Font
 from tkinter.ttk import *
 from tkinter.messagebox import *
 
-
 # root = Tk()
 # root.title('')
 # root.wm_attributes("-alpha", 0.1)        # 透明度(0.0~1.0)
