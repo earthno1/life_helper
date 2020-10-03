@@ -1,4 +1,6 @@
+import time
 from tkinter import *
+from tkinter.font import Font
 from tkinter.ttk import *
 from tkinter.messagebox import *
 #zhushi
