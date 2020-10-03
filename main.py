@@ -57,8 +57,7 @@ class DragWindow(tk.Tk):
         self.abs_x, self.abs_y = self.winfo_x(), self.winfo_y()
 
 
-root = DragWindow(bg = None)
-Label(root,text="老王时钟",font=Font(size=10)).pack()
+root = DragWindow(bg = 'black')
 timer= Label(root,text="时钟正在初始化...",font=Font(size=100))
 # timer.("-alpha", 1)
 def ut():
